@@ -1,0 +1,17 @@
+D:\C#作业\第七次作业\g1\g1\obj\Debug\net6.0-windows\g1.csproj.AssemblyReference.cache
+D:\C#作业\第七次作业\g1\g1\obj\Debug\net6.0-windows\g1.Form1.resources
+D:\C#作业\第七次作业\g1\g1\obj\Debug\net6.0-windows\g1.csproj.GenerateResource.cache
+D:\C#作业\第七次作业\g1\g1\obj\Debug\net6.0-windows\g1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#作业\第七次作业\g1\g1\obj\Debug\net6.0-windows\g1.AssemblyInfoInputs.cache
+D:\C#作业\第七次作业\g1\g1\obj\Debug\net6.0-windows\g1.AssemblyInfo.cs
+D:\C#作业\第七次作业\g1\g1\obj\Debug\net6.0-windows\g1.csproj.CoreCompileInputs.cache
+D:\C#作业\第七次作业\g1\g1\bin\Debug\net6.0-windows\g1.exe
+D:\C#作业\第七次作业\g1\g1\bin\Debug\net6.0-windows\g1.deps.json
+D:\C#作业\第七次作业\g1\g1\bin\Debug\net6.0-windows\g1.runtimeconfig.json
+D:\C#作业\第七次作业\g1\g1\bin\Debug\net6.0-windows\g1.dll
+D:\C#作业\第七次作业\g1\g1\bin\Debug\net6.0-windows\ref\g1.dll
+D:\C#作业\第七次作业\g1\g1\bin\Debug\net6.0-windows\g1.pdb
+D:\C#作业\第七次作业\g1\g1\obj\Debug\net6.0-windows\g1.dll
+D:\C#作业\第七次作业\g1\g1\obj\Debug\net6.0-windows\ref\g1.dll
+D:\C#作业\第七次作业\g1\g1\obj\Debug\net6.0-windows\g1.pdb
+D:\C#作业\第七次作业\g1\g1\obj\Debug\net6.0-windows\g1.genruntimeconfig.cache
